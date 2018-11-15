@@ -2,5 +2,17 @@ img{
     width:200px;
 }
 .title{
+    font-family: 'Berkshire Swash', cursive;
     
 }
+.names{
+    font-family: 'Sacramento', cursive;
+}
+.award{
+    color:blue;
+}
+body{
+    background:lavender;
+    text-align:center;
+}
+
